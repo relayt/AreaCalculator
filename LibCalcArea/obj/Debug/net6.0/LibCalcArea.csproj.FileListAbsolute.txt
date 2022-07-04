@@ -1,0 +1,12 @@
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.AssemblyInfoInputs.cache
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.AssemblyInfo.cs
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.csproj.CoreCompileInputs.cache
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\bin\Debug\net6.0\LibCalcArea.deps.json
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\bin\Debug\net6.0\LibCalcArea.dll
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\bin\Debug\net6.0\ref\LibCalcArea.dll
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\bin\Debug\net6.0\LibCalcArea.pdb
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.dll
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\ref\LibCalcArea.dll
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.pdb
+D:\Visual Studio folder\LibCalcArea\LibCalcArea\obj\Debug\net6.0\LibCalcArea.csproj.AssemblyReference.cache
